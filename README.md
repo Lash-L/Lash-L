@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Lash-L/Lash-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luke, and I am an Artificial Intelligence engineer! I enjoy working on DIY projects and that has made working on Home Assistant one of my favorite things to do!
 
-Here are some ideas to get you started:
+[![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects (Updated as of 5/6/2023)
+
+### Home Assistant
+
+| Project                                                                                  | Lower bounds users | Upper bounds users |
+|------------------------------------------------------------------------------------------|--------------------|--------------------|
+| [Roborock Official Integration](https://www.home-assistant.io/integrations/roborock/)    | 434                | 1,627.5            |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 902                | 3,382              |
+| [Oral-B](https://www.home-assistant.io/integrations/oralb)                               | 5,950 | 22,312             |
+| [Anova](https://www.home-assistant.io/integrations/anova)                                 | 14  | 52                 |
+| [Southern Company](https://github.com/Lash-L/southern-company-hacs) | | |
+
+Stats for custom integrations were found [here](https://analytics.home-assistant.io/custom_integrations.json)
+
+Home Assistant analytics are opt-in and as Home Assistant caters to users who are very privacy conscious, it is estimated
+only around 1/3 of users have opted into analytics. So to get a more accurate number of users, we multiply the number of
+users by 3. As well, out of the users who have opted into analytics, only 80% of them have opted into integration analytics
+so we divide the original number of users by 0.8 to get a more accurate number of users.
+
+[buymecoffee]: https://www.buymeacoffee.com/LashL
+[buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
