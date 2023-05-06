@@ -4,17 +4,18 @@ My name is Luke, and I am an Artificial Intelligence engineer! I enjoy working o
 
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
-## Projects (Updated as of 5/6/2023)
+## Projects
+<!-- Projects-START -->
 
-### Home Assistant
+### Home Assistant (Updated as of 2023-05-06)
 
-| Project                                                                                  | Lower bounds users | Upper bounds users |
-|------------------------------------------------------------------------------------------|--------------------|--------------------|
-| [Roborock Official Integration](https://www.home-assistant.io/integrations/roborock/)    | 434                | 1,627.5            |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 902                | 3,382              |
-| [Oral-B](https://www.home-assistant.io/integrations/oralb)                               | 5,950 | 22,312             |
-| [Anova](https://www.home-assistant.io/integrations/anova)                                 | 14  | 52                 |
-| [Southern Company](https://github.com/Lash-L/southern-company-hacs) | | |
+| Project | Lower bounds users | Upper bounds users |
+| ------- | ------------------ | ------------------ |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 902 | 3345 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 633 | 2347 |
+| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 14 | 51 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 5950 | 22069 |
+<!-- Projects-END -->
 
 Stats for custom integrations were found [here](https://analytics.home-assistant.io/custom_integrations.json)
 
