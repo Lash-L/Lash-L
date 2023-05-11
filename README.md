@@ -24,5 +24,8 @@ only around 1/3 of users have opted into analytics. So to get a more accurate nu
 users by 3. As well, out of the users who have opted into analytics, only 80% of them have opted into integration analytics
 so we divide the original number of users by 0.8 to get a more accurate number of users.
 
+### Other
+[Ender 3 V2 Neo Tutorial](https://lash-l.github.io/ender3_v2_neo)
+
 [buymecoffee]: https://www.buymeacoffee.com/LashL
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
