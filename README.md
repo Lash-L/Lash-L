@@ -7,14 +7,14 @@ My name is Luke, and I am an Artificial Intelligence engineer! I enjoy working o
 ## Projects
 <!-- Projects-START -->
 
-### Home Assistant (Updated as of 2023-05-06)
+### Home Assistant (Updated as of 2023-06-21)
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 902 | 3345 |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 633 | 2347 |
-| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 14 | 51 |
-| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 5950 | 22069 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 1207 | 4501 |
+| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 2366 | 8823 |
+| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 36 | 134 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 6063 | 22611 |
 <!-- Projects-END -->
 
 Stats for custom integrations were found [here](https://analytics.home-assistant.io/custom_integrations.json)
@@ -23,6 +23,9 @@ Home Assistant analytics are opt-in and as Home Assistant caters to users who ar
 only around 1/3 of users have opted into analytics. So to get a more accurate number of users, we multiply the number of
 users by 3. As well, out of the users who have opted into analytics, only 80% of them have opted into integration analytics
 so we divide the original number of users by 0.8 to get a more accurate number of users.
+
+### Other
+[Ender 3 V2 Neo Tutorial](https://lash-l.github.io/ender3_v2_neo)
 
 [buymecoffee]: https://www.buymeacoffee.com/LashL
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge

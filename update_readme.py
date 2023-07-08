@@ -15,7 +15,7 @@ class IntegrationInformation:
     estimated: int = 0
 
 roborock_custom = IntegrationInformation(name="Roborock Custom Integration", link="https://github.com/humbertogontijo/homeassistant-roborock", domain="roborock")
-roborock_core = IntegrationInformation(name="Roborock Core Integration", link="https://github.com/humbertogontijo/homeassistant-roborock", domain="roborock")
+roborock_core = IntegrationInformation(name="Roborock Core Integration", link="https://www.home-assistant.io/integrations/roborock", domain="roborock")
 anova_core = IntegrationInformation(name="Anova Core Integration", link="https://www.home-assistant.io/integrations/anova", domain="anova")
 oralb_core = IntegrationInformation(name="Oral-B Core Integration", link="https://www.home-assistant.io/integrations/oralb", domain="oralb")
 
