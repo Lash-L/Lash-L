@@ -33,7 +33,7 @@ def get_core_integration_information():
     matches = re.search(pattern, text, re.S)
     table_entries_str = matches.group(1)
     table_entries = json.loads(table_entries_str)
-    pattern = r'<div class="note">[\d,]+ of [\d,]+ \(([\d.]+)%\) installations'
+    pattern = r'\(([\d.]+)%\) installations have chosen'
     matches = re.search(pattern, text)
     percentage = float(matches.group(1)) / 100
     return [ entry for entry in table_entries if entry['domain'] in follow_core.keys()], percentage
