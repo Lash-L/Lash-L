@@ -7,14 +7,14 @@ My name is Luke, and I am an Artificial Intelligence engineer! I enjoy working o
 ## Projects
 <!-- Projects-START -->
 
-### Home Assistant (Updated as of 2023-07-23)
+### Home Assistant (Updated as of 2023-07-24)
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 1353 | 5047 |
-| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 3112 | 11609 |
-| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 39 | 145 |
-| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 6201 | 23132 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 1360 | 5071 |
+| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 3153 | 11757 |
+| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 40 | 149 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 6226 | 23216 |
 <!-- Projects-END -->
 
 Stats for custom integrations were found [here](https://analytics.home-assistant.io/custom_integrations.json)
