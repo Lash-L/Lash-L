@@ -4,6 +4,8 @@ My name is Luke, and I am an Artificial Intelligence engineer! I enjoy working o
 
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)]([https://www.paypal.me/USERNAME/](https://www.paypal.com/paypalme/my/profile))
+
 ## Projects
 <!-- Projects-START -->
 
