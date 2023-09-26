@@ -4,8 +4,7 @@ My name is Luke, and I am an Artificial Intelligence engineer! I enjoy working o
 
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)]([https://www.paypal.me/USERNAME/](https://www.paypal.com/paypalme/my/profile))
-
+[![PaypalMe][paypalmebadge]][paypalme]
 ## Projects
 <!-- Projects-START -->
 
@@ -31,3 +30,5 @@ so we divide the original number of users by 0.8 to get a more accurate number o
 
 [buymecoffee]: https://www.buymeacoffee.com/LashL
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
+[paypalme]: https://paypal.me/LLashley304
+[paypalmebadge]: https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg
