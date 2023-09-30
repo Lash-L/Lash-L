@@ -2,6 +2,7 @@
 
 My name is Luke, and I am an Artificial Intelligence engineer! I enjoy working on DIY projects and that has made working on Home Assistant one of my favorite things to do!
 
+If you feel like my projects have been helpful, feel free to donate here! Help me buy something extra special for my wife this Christmas!
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
 [![PaypalMe][paypalmebadge]][paypalme]
