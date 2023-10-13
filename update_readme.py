@@ -18,9 +18,10 @@ roborock_custom = IntegrationInformation(name="Roborock Custom Integration", lin
 roborock_core = IntegrationInformation(name="Roborock Core Integration", link="https://www.home-assistant.io/integrations/roborock", domain="roborock")
 anova_core = IntegrationInformation(name="Anova Core Integration", link="https://www.home-assistant.io/integrations/anova", domain="anova")
 oralb_core = IntegrationInformation(name="Oral-B Core Integration", link="https://www.home-assistant.io/integrations/oralb", domain="oralb")
+myq_core = IntegrationInformation(name="My Q Core Integration", link="https://www.home-assistant.io/integrations/myq", domain="myq")
 
 follow_custom = {"roborock":roborock_custom}
-follow_core = {"roborock": roborock_core, "anova":anova_core, "oralb":oralb_core}
+follow_core = {"roborock": roborock_core, "anova":anova_core, "oralb":oralb_core, "myq": myq_core}
 def get_custom_integration_information():
     data = requests.get("https://analytics.home-assistant.io/custom_integrations.json")
     json_data = data.json()
