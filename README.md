@@ -9,14 +9,14 @@ If you feel like my projects have been helpful, feel free to donate here! Help m
 ## Projects
 <!-- Projects-START -->
 
-### Home Assistant (Updated as of 2024-10-02)
+### Home Assistant (Updated as of 2024-10-03)
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 2770 | 10305 |
-| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 13222 | 49188 |
-| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 195 | 725 |
-| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 10297 | 38307 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 2769 | 10301 |
+| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 13237 | 49244 |
+| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 197 | 732 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 10315 | 38374 |
 | [My Q Core Integration](https://www.home-assistant.io/integrations/myq) | 0 | 0 |
 <!-- Projects-END -->
 
