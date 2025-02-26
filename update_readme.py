@@ -22,7 +22,7 @@ snoo_core = IntegrationInformation(name="Snoo Integration", link="https://www.ho
 snoo_custom = IntegrationInformation(name="Snoo Core Integration", link="https://github.com/Lash-L/snoo-hacs", domain="snoo")
 
 follow_custom = {"roborock":roborock_custom, "snoo": snoo_custom}
-follow_core = {"roborock": roborock_core, "anova":anova_core, "oralb":oralb_core, "snoo": snoo_code}
+follow_core = {"roborock": roborock_core, "anova":anova_core, "oralb":oralb_core, "snoo": snoo_core}
 def get_custom_integration_information():
     data = requests.get("https://analytics.home-assistant.io/custom_integrations.json")
     json_data = data.json()
