@@ -18,8 +18,8 @@ roborock_custom = IntegrationInformation(name="Roborock Custom Integration", lin
 roborock_core = IntegrationInformation(name="Roborock Core Integration", link="https://www.home-assistant.io/integrations/roborock", domain="roborock")
 anova_core = IntegrationInformation(name="Anova Core Integration", link="https://www.home-assistant.io/integrations/anova", domain="anova")
 oralb_core = IntegrationInformation(name="Oral-B Core Integration", link="https://www.home-assistant.io/integrations/oralb", domain="oralb")
-snoo_core = IntegrationInformation(name="Snoo Integration", link="https://www.home-assistant.io/integrations/snoo", domain="snoo")
-snoo_custom = IntegrationInformation(name="Snoo Core Integration", link="https://github.com/Lash-L/snoo-hacs", domain="snoo")
+snoo_core = IntegrationInformation(name="Snoo Core Integration", link="https://www.home-assistant.io/integrations/snoo", domain="snoo")
+snoo_custom = IntegrationInformation(name="Snoo HACS Integration", link="https://github.com/Lash-L/snoo-hacs", domain="snoo")
 
 follow_custom = {"roborock":roborock_custom, "snoo": snoo_custom}
 follow_core = {"roborock": roborock_core, "anova":anova_core, "oralb":oralb_core, "snoo": snoo_core}
