@@ -13,7 +13,7 @@ If you feel like my projects have been helpful, feel free to donate here!
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 2312 | 8616 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 2304 | 8586 |
 | [Snoo HACS Integration](https://github.com/Lash-L/snoo-hacs) | 6 | 22 |
 | [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 20771 | 77407 |
 | [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 289 | 1077 |
