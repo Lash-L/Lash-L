@@ -9,7 +9,7 @@ If you feel like my projects have been helpful, feel free to donate here!
 ## Projects
 <!-- Projects-START -->
 
-### Home Assistant (Updated as of 2025-03-29)
+### Home Assistant (Updated as of 2025-03-30)
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
