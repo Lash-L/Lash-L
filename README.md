@@ -9,16 +9,16 @@ If you feel like my projects have been helpful, feel free to donate here!
 ## Projects
 <!-- Projects-START -->
 
-### Home Assistant (Updated as of 2025-07-01)
+### Home Assistant (Updated as of 2025-07-02)
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 2166 | 8106 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 2159 | 8081 |
 | [Snoo HACS Integration](https://github.com/Lash-L/snoo-hacs) | 4 | 14 |
-| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 26652 | 99745 |
-| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 323 | 1208 |
-| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 13604 | 50913 |
-| [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 42 | 157 |
+| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 26695 | 99918 |
+| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 322 | 1205 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 13599 | 50900 |
+| [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 43 | 160 |
 <!-- Projects-END -->
 
 Stats for custom integrations were found [here](https://analytics.home-assistant.io/custom_integrations.json)
