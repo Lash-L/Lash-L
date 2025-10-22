@@ -9,15 +9,15 @@ If you feel like my projects have been helpful, feel free to donate here!
 ## Projects
 <!-- Projects-START -->
 
-### Home Assistant (Updated as of 2025-10-21)
+### Home Assistant (Updated as of 2025-10-22)
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 1994 | 7481 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 1991 | 7470 |
 | [Snoo HACS Integration](https://github.com/Lash-L/snoo-hacs) | 4 | 15 |
-| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 31636 | 118694 |
-| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 354 | 1328 |
-| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 13954 | 52353 |
+| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 31679 | 118870 |
+| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 355 | 1332 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 13968 | 52412 |
 | [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 61 | 228 |
 <!-- Projects-END -->
 
