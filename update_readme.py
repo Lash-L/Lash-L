@@ -1,5 +1,3 @@
-import json
-import re
 from dataclasses import dataclass
 from datetime import date
 
@@ -29,16 +27,18 @@ def get_custom_integration_information():
     return {key: json_data[key] for key in follow_custom.keys()}
 
 def get_core_integration_information():
-    data = requests.get("https://analytics.home-assistant.io/integrations/")
-    text = data.text
-    pattern = r'const tableEntries = (\[.*?\]);'
-    matches = re.search(pattern, text, re.S)
-    table_entries_str = matches.group(1)
-    table_entries = json.loads(table_entries_str)
-    pattern = r'\(([\d.]+)%\) installations have chosen'
-    matches = re.search(pattern, text)
-    percentage = float(matches.group(1)) / 100
-    return [ entry for entry in table_entries if entry['domain'] in follow_core.keys()], percentage
+    data = requests.get("https://analytics.home-assistant.io/current_data.json")
+    json_data = data.json()
+    integrations = json_data['integrations']
+    reports_integrations = json_data['reports_integrations']
+    active_installations = json_data['active_installations']
+    percentage = reports_integrations / active_installations if active_installations else 1
+    table_entries = [
+        {'domain': domain, 'installations': integrations[domain]}
+        for domain in follow_core
+        if domain in integrations
+    ]
+    return table_entries, percentage
 
 
 def update_readme():
