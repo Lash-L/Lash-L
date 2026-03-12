@@ -15,9 +15,9 @@ If you feel like my projects have been helpful, feel free to donate here!
 | ------- | ------------------ | ------------------ |
 | [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 1612 | 6072 |
 | [Snoo HACS Integration](https://github.com/Lash-L/snoo-hacs) | 4 | 15 |
-| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 40399 | 152187 |
-| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 425 | 1601 |
-| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 15318 | 57704 |
+| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 40399 | 152182 |
+| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 425 | 1600 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 15318 | 57702 |
 | [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 68 | 256 |
 <!-- Projects-END -->
 
