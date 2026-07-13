@@ -30,6 +30,7 @@ so we divide the original number of users by 0.8 to get a more accurate number o
 
 ### Other
 [Ender 3 V2 Neo Tutorial](https://lash-l.github.io/ender3_v2_neo)
+
 [Paid to Train AI](https://www.paidtotrainai.com/) - This is a new side project I'm working on. I originally started just trying to make some side money and grow my skills, but it's been fun and I feel like I have learned a lot, so I figured I'd make this to share what I've learned.
 
 [buymecoffee]: https://www.buymeacoffee.com/LashL
