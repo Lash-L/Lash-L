@@ -10,24 +10,32 @@ If you feel like my projects have been helpful, feel free to donate here!
 ## Projects
 <!-- Projects-START -->
 
-### Home Assistant (Updated as of 2026-08-05)
+### Home Assistant (Updated as of 2026-10-08)
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 1339 | 5061 |
-| [Snoo HACS Integration](https://github.com/Lash-L/snoo-hacs) | 3 | 11 |
-| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 49041 | 185396 |
-| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 448 | 1693 |
-| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 16591 | 62721 |
-| [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 81 | 306 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 952 | 3599 |
+| [Snoo HACS Integration](https://github.com/Lash-L/snoo-hacs) | 2 | 7 |
+| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 53758 | 203233 |
+| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 464 | 1754 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 17180 | 64949 |
+| [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 92 | 347 |
+| [Harbor Sleep Core Integration](https://www.home-assistant.io/integrations/harbor) | 4 | 15 |
+| [Roborock Local Server App](https://github.com/Python-roborock/local_roborock_server) | 54 | 216 |
+
+[Roborock Local Server](https://github.com/Python-roborock/local_roborock_server) also has ⭐ 889 stars on GitHub. Its row above only counts
+the Home Assistant app, so anyone running the standalone Docker image isn't included.
 <!-- Projects-END -->
 
-Stats for custom integrations were found [here](https://analytics.home-assistant.io/custom_integrations.json)
+Stats for custom integrations were found [here](https://analytics.home-assistant.io/custom_integrations.json) and stats for apps were found [here](https://analytics.home-assistant.io/addons.json)
 
 Home Assistant analytics are opt-in and as Home Assistant caters to users who are very privacy conscious, it is estimated
 only around 1/3 of users have opted into analytics. So to get a more accurate number of users, we multiply the number of
 users by 3. As well, out of the users who have opted into analytics, only 80% of them have opted into integration analytics
 so we divide the original number of users by 0.8 to get a more accurate number of users.
+
+Apps work the same way, except only Home Assistant OS and Supervised installs can run them. Around 75% of those installs
+share app analytics, so app installs are divided by 0.75 instead.
 
 ### Other
 [Ender 3 V2 Neo Tutorial](https://lash-l.github.io/ender3_v2_neo)
