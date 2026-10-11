@@ -10,20 +10,20 @@ If you feel like my projects have been helpful, feel free to donate here!
 ## Projects
 <!-- Projects-START -->
 
-### Home Assistant (Updated as of 2026-10-10)
+### Home Assistant (Updated as of 2026-10-11)
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 941 | 3558 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 927 | 3507 |
 | [Snoo HACS Integration](https://github.com/Lash-L/snoo-hacs) | 2 | 7 |
-| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 53965 | 204074 |
+| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 54147 | 204860 |
 | [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 467 | 1766 |
-| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 17192 | 65013 |
-| [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 92 | 347 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 17214 | 65127 |
+| [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 93 | 351 |
 | [Harbor Sleep Core Integration](https://www.home-assistant.io/integrations/harbor) | 4 | 15 |
-| [Roborock Local Server App](https://github.com/Python-roborock/local_roborock_server) | 55 | 220 |
+| [Roborock Local Server App](https://github.com/Python-roborock/local_roborock_server) | 54 | 216 |
 
-[Roborock Local Server](https://github.com/Python-roborock/local_roborock_server) also has ⭐ 899 stars on GitHub. Its row above only counts
+[Roborock Local Server](https://github.com/Python-roborock/local_roborock_server) also has ⭐ 901 stars on GitHub. Its row above only counts
 the Home Assistant app, so anyone running the standalone Docker image isn't included.
 <!-- Projects-END -->
 
