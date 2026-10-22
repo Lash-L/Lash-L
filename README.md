@@ -10,20 +10,20 @@ If you feel like my projects have been helpful, feel free to donate here!
 ## Projects
 <!-- Projects-START -->
 
-### Home Assistant (Updated as of 2026-10-21)
+### Home Assistant (Updated as of 2026-10-22)
 
 | Project | Lower bounds users | Upper bounds users |
 | ------- | ------------------ | ------------------ |
-| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 854 | 3230 |
+| [Roborock Custom Integration](https://github.com/humbertogontijo/homeassistant-roborock) | 847 | 3202 |
 | [Snoo HACS Integration](https://github.com/Lash-L/snoo-hacs) | 2 | 7 |
-| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 55222 | 208864 |
-| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 474 | 1792 |
-| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 17312 | 65478 |
-| [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 94 | 355 |
+| [Roborock Core Integration](https://www.home-assistant.io/integrations/roborock) | 55287 | 209066 |
+| [Anova Core Integration](https://www.home-assistant.io/integrations/anova) | 472 | 1784 |
+| [Oral-B Core Integration](https://www.home-assistant.io/integrations/oralb) | 17306 | 65442 |
+| [Snoo Core Integration](https://www.home-assistant.io/integrations/snoo) | 93 | 351 |
 | [Harbor Sleep Core Integration](https://www.home-assistant.io/integrations/harbor) | 5 | 18 |
-| [Roborock Local Server App](https://github.com/Python-roborock/local_roborock_server) | 58 | 232 |
+| [Roborock Local Server App](https://github.com/Python-roborock/local_roborock_server) | 60 | 240 |
 
-[Roborock Local Server](https://github.com/Python-roborock/local_roborock_server) also has ⭐ 956 stars on GitHub. Its row above only counts
+[Roborock Local Server](https://github.com/Python-roborock/local_roborock_server) also has ⭐ 1023 stars on GitHub. Its row above only counts
 the Home Assistant app, so anyone running the standalone Docker image isn't included.
 <!-- Projects-END -->
 
